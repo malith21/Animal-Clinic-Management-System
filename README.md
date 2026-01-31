@@ -1,4 +1,4 @@
-# 🏥 Veterinary Clinic Management System
+# 🏥 Animal Clinic Management System
 
 <div align="center">
 
